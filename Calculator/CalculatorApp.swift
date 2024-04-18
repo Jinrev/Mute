@@ -1,10 +1,3 @@
-//
-//  CalculatorApp.swift
-//  Calculator
-//
-//  Created by 김정우 on 4/18/24.
-//
-
 import SwiftUI
 
 @main
